@@ -1,4 +1,4 @@
-# `flutter_map_marker_popup`
+# `flutter_map_marker_popup2`
 
 Makes adding marker popups to [`flutter_map`](https://github.com/fleaflet/flutter_map) easy.
 
@@ -14,9 +14,9 @@ For a complete example which demonstrates all of the various options available t
 
 ## FAQ
 
-* Why is the popup not showing when I tap the marker?
+- Why is the popup not showing when I tap the marker?
 
-   Make sure you don't have a GestureDetector in your Marker's builder which is preventing this plugin from detecting the Marker tap.
+  Make sure you don't have a GestureDetector in your Marker's builder which is preventing this plugin from detecting the Marker tap.
 
 ## Clustering
 
